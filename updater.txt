@@ -1,4 +1,4 @@
 {
-  version: "8",
-  link: "https://github.com/Mr30nama/30nama-AndroidTV/releases/download/v0.1.7/30nama-tv.apk"
+  version: "9",
+  link: "https://github.com/Mr30nama/30nama-AndroidTV/releases/download/v0.1.8/30nama-tv.apk"
 }
